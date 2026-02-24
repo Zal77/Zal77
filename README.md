@@ -3,9 +3,9 @@
 ## 🚀 About Me
 I'm a **Software Developer**, **Robotics Programmer**, and **IoT Developer** with a strong passion for building innovative solutions. I enjoy blending software with hardware to create smart, automated systems that push the boundaries of technology. Whether it's coding, designing, or integrating complex systems, I'm always excited to dive deep into the technical challenges that come my way.
 
-- 🌱 Currently learning **( <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="Flutter Logo" width="50"/> )**
-- 👯 Looking to collaborate on **Flutter apps and IoT systems**
-- 💬 Ask me about **Mobile App, Robotics Progam, IoT**
+- 🌱 Currently learning **( KOTLIN )**
+- 👯 Looking to collaborate on **Mobile apps and Website apps**
+- 💬 Ask me about **Mobile App, Website App, Robotics Progam, IoT**
 - 📫 How to reach me: **rizalfauzi7704@gmail.com**
 
 ## 🔧 Technologies & Tools
