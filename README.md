@@ -3,7 +3,8 @@
 ## 🚀 About Me
 I'm a **Software Developer**, **Robotics Programmer**, and **IoT Developer** with a strong passion for building innovative solutions. I enjoy blending software with hardware to create smart, automated systems that push the boundaries of technology. Whether it's coding, designing, or integrating complex systems, I'm always excited to dive deep into the technical challenges that come my way.
 
-- 🌱 Currently learning **( KOTLIN )**
+- 🌱 Currently learning **( <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f907c739-4984-465d-88f1-8bb3af0962da" />
+ KOTLIN )**
 - 👯 Looking to collaborate on **Mobile apps and Website apps**
 - 💬 Ask me about **Mobile App, Website App, Robotics Progam, IoT**
 - 📫 How to reach me: **rizalfauzi7704@gmail.com**
