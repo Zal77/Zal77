@@ -1,4 +1,5 @@
-# Hello, I'm Rizal Fauzi
+## 📓 Portofolio
+<img src="https://drive.google.com/uc?export=view&id=1uZHlWh71XKykcZc-_QJxUkFJVLiz-Gpt" alt="Portofolio">
 
 ## 🚀 About Me
 I'm a **Software Developer**, **Robotics Programmer**, and **IoT Developer** with a strong passion for building innovative solutions. I enjoy blending software with hardware to create smart, automated systems that push the boundaries of technology. Whether it's coding, designing, or integrating complex systems, I'm always excited to dive deep into the technical challenges that come my way.
@@ -40,6 +41,3 @@ Here are some of the tools and technologies I work with:
 - [Email](rizalfauzi7704@gmail.com)
 - [Instagram](https://www.instagram.com/zalfauzi__/)
 - [Whatsapp](wa.me/+6281394105271)
-
-## 📓 Portofolio
-<img src="https://drive.google.com/uc?export=view&id=1uZHlWh71XKykcZc-_QJxUkFJVLiz-Gpt" alt="Portofolio">
