@@ -1,8 +1,8 @@
 ## 📓 Portofolio
-<img src="https://drive.google.com/uc?export=view&id=1uZHlWh71XKykcZc-_QJxUkFJVLiz-Gpt" alt="Portofolio">
+<img src="https://drive.google.com/uc?export=view&id=1KmxdgCopw-zSm0aVqw7-iKvjTTTjRBqd" alt="Portofolio">
 
 ## 🚀 About Me
-I'm a **Software Developer**, **Robotics Programmer**, and **IoT Developer** with a strong passion for building innovative solutions. I enjoy blending software with hardware to create smart, automated systems that push the boundaries of technology. Whether it's coding, designing, or integrating complex systems, I'm always excited to dive deep into the technical challenges that come my way.
+I'm a **Software Engineer**, with a strong passion for building innovative solutions. I'm always excited to dive deep into the technical challenges that come my way.
 
 - 🌱 Currently learning **( <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f907c739-4984-465d-88f1-8bb3af0962da" />
  KOTLIN )**
