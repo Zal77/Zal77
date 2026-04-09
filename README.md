@@ -1,5 +1,5 @@
 ## 📓 Portofolio
-<img src="https://drive.google.com/uc?export=view&id=1KmxdgCopw-zSm0aVqw7-iKvjTTTjRBqd" alt="Portofolio">
+<img src="https://drive.google.com/uc?export=view&id=1rYIPXNHTchOtNaMjPHusZ-TnnUNiaZ6q" alt="Portofolio">
 
 ## 🚀 About Me
 I'm a **Software Engineer**, with a strong passion for building innovative solutions. I'm always excited to dive deep into the technical challenges that come my way.
